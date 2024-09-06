@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Ria Mathews 👋
+### Assistant Professor
+**Website** <www.saintgits.org>
+## Workshop Attended
+- FDP- *Instructional Design for Python Programming*
+### Computer Science and Engineering
 <!--
 **Ria-Mathews/Ria-Mathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
